@@ -1,0 +1,28 @@
+Initialize the repository (if not done already):
+
+git init
+
+
+
+Add files to staging area:
+
+git add .
+
+Commit the changes:
+
+
+git commit -m "first commit"
+
+Rename the branch to main:
+
+
+git branch -M main
+
+Set the remote repository URL (if not done already):
+
+git remote add origin https://github.com/Pooja1992a/demo.git
+
+
+Push the changes to the main branch:
+
+git push -u origin main Pooja1992a
